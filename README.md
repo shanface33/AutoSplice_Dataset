@@ -13,7 +13,4 @@ Three JPEG compression versions are included, JPEG-100, JPEG-90, and JPEG-75.
 
 ## Dataset Download
 
-To bu updated!
-
-## License and Citation
-The WFFD database is released only for academic researches. Any researchers from educational institute are allowed to use this database freely for noncommercial purpose.
+To be updated!
