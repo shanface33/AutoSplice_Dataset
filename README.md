@@ -5,12 +5,13 @@ masked regions guided by a text prompt. It consists of 5,894 manipulated and aut
 
 ![fig1_compressed-1](Figure/Fig1.png)
 
-![fig1_compressed-1](Figure/Fig2.png)
-
 ## Summary 
 The database contains 3, 621 images by locally or globally manipulating real-world image-caption pairs, and 2, 273 authentic images.
 
-Three JPEG compression versions are included, JPEG-100, JPEG-90, and JPEG-75.
+Three JPEG compression versions are included, JPEG-100, JPEG-90, and JPEG-75, along with their manipulation masks.
+
+![fig1_compressed-1](Figure/Fig2.png)
+
 
 ## Dataset Download
 
