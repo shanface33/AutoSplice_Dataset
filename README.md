@@ -1,22 +1,21 @@
 # AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics
 
-The AutoSplice dataset was proposed in the CVPR Workshop on Media Forensics paper "AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics", which leverages the DALL-E2 language-image model to automatically generate and splice masked regions guided by a text prompt. It consists of 5,894 manipulated and authentic images. 
+The AutoSplice dataset was proposed in the CVPR Workshop on Media Forensics paper "AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics", which leverages the DALL-E2 [^1] language-image model to automatically generate and splice masked regions guided by a text prompt. It consists of 5,894 manipulated and authentic images. 
 
 [[Paper]](https://openaccess.thecvf.com/content/CVPR2023W/WMF/papers/Jia_AutoSplice_A_Text-Prompt_Manipulated_Image_Dataset_for_Media_Forensics_CVPRW_2023_paper.pdf) [[Download]](https://docs.google.com/forms/d/1bHbWZ-DsG1-VKaMs4Puy0996yj485x7HK13fgbNRerE/edit)
 
 ![fig1_compressed-1](Figure/Fig1.png)
 
 ## Summary 
-The database contains 3, 621 images by locally or globally manipulating real-world image-caption pairs, and 2, 273 authentic images.
+The database contains 3, 621 images by locally or globally manipulating real-world images, and 2, 273 authentic images.
 
 Three JPEG compression versions along with their manipulation masks are included, 
 - JPEG-100, lossless compression with a JPEG quality factor of 100;
 - JPEG-90, gently lossy compression with a JPEG quality factor of 90;
-- JPEG-75, lossy compression with a JPEG factor of 75 (the same as the authentic images derived from Visual News dataset[^1]), used for fine-tuning tasks.
+- JPEG-75, lossy compression with a JPEG factor of 75 (the same as the authentic images derived from Visual News dataset[^2]), used for fine-tuning tasks.
 
 ![fig1_compressed-1](Figure/Fig2.png)
 
-[^1]: Liu, Fuxiao, et al. "Visual news: Benchmark and challenges in news image captioning." Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (2021).
 ## Dataset Download
 If you would like to access the *AutoSplice* dataset, please fill out this [google form](https://docs.google.com/forms/d/1bHbWZ-DsG1-VKaMs4Puy0996yj485x7HK13fgbNRerE/edit). The download link will be sent to you once the form is accepted (in 72 hours). If you have any questions, please send email to [autosplice.dataset@gmail.com].
 
@@ -33,3 +32,5 @@ If you use this dataset, please cite the following papers:
   year={2023}
 }
 
+[^1]: Ramesh, Aditya, et al. "Hierarchical text-conditional image generation with clip latents." arXiv preprint arXiv:2204.06125 (2022).
+[^2]: Liu, Fuxiao, et al. "Visual news: Benchmark and challenges in news image captioning." Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (2021).
