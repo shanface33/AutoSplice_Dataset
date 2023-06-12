@@ -14,10 +14,10 @@ Three JPEG compression versions are included, JPEG-100, JPEG-90, and JPEG-75, al
 
 
 ## Dataset Download
-If you would like to access the *DFDM* dataset, please fill out this [google form](https://docs.google.com/forms/d/1bHbWZ-DsG1-VKaMs4Puy0996yj485x7HK13fgbNRerE/edit). The download link will be sent to you once the form is accepted (in 72 hours). If you have any questions, please send email to [autosplice.dataset@gmail.com].
+If you would like to access the *AutoSplice* dataset, please fill out this [google form](https://docs.google.com/forms/d/1bHbWZ-DsG1-VKaMs4Puy0996yj485x7HK13fgbNRerE/edit). The download link will be sent to you once the form is accepted (in 72 hours). If you have any questions, please send email to [autosplice.dataset@gmail.com].
 
 ## License and Citation
-The DFDM database is released only for academic research. Researchers from educational institute are allowed to use this database freely for noncommercial purpose.
+The AutoSplice dataset is released only for academic research. Researchers from educational institute are allowed to use this database freely for noncommercial purpose.
 
 If you use this dataset, please cite the following paper:
 ```
