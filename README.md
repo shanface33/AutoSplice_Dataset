@@ -15,4 +15,4 @@ Three JPEG compression versions are included, JPEG-100, JPEG-90, and JPEG-75, al
 
 ## Dataset Download
 
-To be updated by the end of May!
+To be updated!
