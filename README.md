@@ -9,7 +9,10 @@ The AutoSplice dataset was proposed in the CVPR Workshop on Media Forensics pape
 ## Summary 
 The database contains 3, 621 images by locally or globally manipulating real-world image-caption pairs, and 2, 273 authentic images.
 
-Three JPEG compression versions are included, JPEG-100, JPEG-90, and JPEG-75, along with their manipulation masks.
+Three JPEG compression versions along with their manipulation masks are included, 
+- JPEG-100, lossless compression with a JPEG quality factor of 100;
+- JPEG-90, gently lossy compression with a JPEG quality factor of 90;
+- JPEG-75, lossy compression with a JPEG factor of 75 (the same as the authentic images derived from Visual News dataset), used for fine-tuning tasks.
 
 ![fig1_compressed-1](Figure/Fig2.png)
 
