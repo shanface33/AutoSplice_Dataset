@@ -1,4 +1,4 @@
-# AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics
+# AutoSplice: A Text-prompt Manipulated Image Dataset
 
 The AutoSplice dataset was proposed in the CVPR Workshop on Media Forensics paper "AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics", which leverages the DALL-E2 [^1] language-image model to automatically generate and splice masked regions guided by a text prompt. It consists of 5,894 manipulated and authentic images. 
 
