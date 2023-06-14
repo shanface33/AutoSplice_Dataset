@@ -1,6 +1,7 @@
 # AutoSplice: A Text-prompt Manipulated Image Dataset
 
 [Shan Jia](https://shanface33.github.io/), Mingzhen Huang, Zhou Zhou, Yan Ju, Jialing Cai, [Siwei Lyu](https://cse.buffalo.edu/~siweilyu/)
+
 University at Buffalo, State University of New York, NY, USA
 
 The AutoSplice dataset was proposed in the [CVPR2023 Workshop on Media Forensics](https://sites.google.com/view/wmf2023/home) paper "AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics", which leverages the DALL-E2 [^1] language-image model to automatically generate and splice masked regions guided by a text prompt. It consists of 5,894 manipulated and authentic images. 
