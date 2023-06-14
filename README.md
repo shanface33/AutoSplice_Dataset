@@ -22,6 +22,9 @@ Three JPEG compression versions along with their manipulation masks are included
 [^1]: Ramesh, Aditya, et al. "Hierarchical text-conditional image generation with clip latents." arXiv preprint arXiv:2204.06125 (2022).
 [^2]: Liu, Fuxiao, et al. "Visual news: Benchmark and challenges in news image captioning." Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (2021).
 
+## Comparison with Other Datasets
+![fig1_compressed-1](Figure/Fig3.png)
+
 ## Dataset Download
 If you would like to access the *AutoSplice* dataset, please fill out this [google form](https://docs.google.com/forms/d/1bHbWZ-DsG1-VKaMs4Puy0996yj485x7HK13fgbNRerE/edit). The download link will be sent to you once the form is accepted (in 48 hours). If you have any questions, please send email to [autosplice.dataset@gmail.com].
 
