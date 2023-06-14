@@ -26,7 +26,7 @@ Three JPEG compression versions along with their manipulation masks are included
 ![fig1_compressed-1](Figure/Fig3a.png)
 
 ## Dataset Download
-If you would like to access the *AutoSplice* dataset, please fill out this [google form](https://docs.google.com/forms/d/1bHbWZ-DsG1-VKaMs4Puy0996yj485x7HK13fgbNRerE/edit). The download link will be sent to you once the form is accepted (in 48 hours). If you have any questions, please send email to [autosplice.dataset@gmail.com].
+If you would like to access the *AutoSplice* dataset, please fill out this [Google Form](https://docs.google.com/forms/d/1bHbWZ-DsG1-VKaMs4Puy0996yj485x7HK13fgbNRerE/edit). The download link will be sent to you once the form is accepted (in 48 hours). If you have any questions, please send email to [autosplice.dataset@gmail.com].
 
 ## License and Citation
 The AutoSplice dataset is released only for academic research. Researchers from educational institute are allowed to use this database freely for noncommercial purpose.
