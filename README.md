@@ -13,10 +13,10 @@ The AutoSplice dataset was proposed in the [CVPR2023 Workshop on Media Forensics
 ## Summary 
 The database contains 3, 621 images by locally or globally manipulating real-world images, and 2, 273 authentic images.
 
-Three JPEG compression versions along with their manipulation masks are included, 
+Three JPEG compression versions along with their manipulation masks and captions are included, 
 - JPEG-100, lossless compression with a JPEG quality factor of 100;
 - JPEG-90, gently lossy compression with a JPEG quality factor of 90;
-- JPEG-75, lossy compression with a JPEG factor of 75 (the same as the authentic images derived from Visual News dataset[^2]), used for fine-tuning tasks.
+- JPEG-75, lossy compression with a JPEG factor of 75 (the same as the authentic images derived from the Visual News dataset[^2]), used for fine-tuning tasks.
 
 ![fig1_compressed-1](Figure/Fig2.png)
 [^1]: Ramesh, Aditya, et al. "Hierarchical text-conditional image generation with clip latents." arXiv preprint arXiv:2204.06125 (2022).
@@ -26,10 +26,10 @@ Three JPEG compression versions along with their manipulation masks are included
 ![fig1_compressed-1](Figure/Fig3a.png)
 
 ## Dataset Download
-If you would like to access the *AutoSplice* dataset, please fill out this [Google Form](https://docs.google.com/forms/d/1bHbWZ-DsG1-VKaMs4Puy0996yj485x7HK13fgbNRerE/edit). The download link will be sent to you once the form is accepted (in 48 hours). If you have any questions, please send email to [autosplice.dataset@gmail.com].
+If you would like to access the *AutoSplice* dataset, please fill out this [Google Form](https://docs.google.com/forms/d/1bHbWZ-DsG1-VKaMs4Puy0996yj485x7HK13fgbNRerE/edit). The download link will be sent to you once the form is accepted (in 48 hours). If you have any questions, please send an email to [autosplice.dataset@gmail.com].
 
 ## License and Citation
-The AutoSplice dataset is released only for academic research. Researchers from educational institute are allowed to use this database freely for noncommercial purpose.
+The AutoSplice dataset is released only for academic research. Researchers from educational institutes are allowed to use this database freely for noncommercial purposes.
 
 If you use this dataset, please cite the following papers:
 ```
